@@ -1,0 +1,70 @@
+====================================================
+RELATÓRIO FINAL — AGÊNCIA DIGITAL (TEMA 02)
+Estratégia de Conteúdo Avançada
+Data: 25/11/2026, 16:25:33
+Missões concluídas: 12 de 12
+====================================================
+
+🏪 NEGÓCIO ESCOLHIDO
+Nome: Corte & Estilo Barbearia
+Tipo: Outro
+Descrição: Barbearia moderna com agendamento online rápido, planos mensais de corte ilimitado e ambiente descontraído.
+
+----------------------------------------------------
+🎯 MISSÕES PRÁTICAS
+----------------------------------------------------
+[✔] 🎭 Persona
+    → Rafael, 26 anos, analista administrativo, trabalha em escritório, gosta de manter o visual sempre alinhado e procura uma barbearia com agendamento online rápido e sem filas.
+
+[✔] 🎯 Objetivo SMART
+    → Conseguir 40 novos agendamentos online e 15 assinantes do plano mensal pelo site nos próximos 60 dias.
+
+[✔] 🗺️ Jornada do Consumidor
+    → •  Pesquisa "barbearia perto de mim" no Google ou vê um corte no Instagram → compara preços, planos mensais e avaliações no site → agenda o horário online em poucos cliques.
+
+[✔] 💡 Tópicos de Conteúdo
+    → Como escolher o corte ideal para o formato do seu rosto; 5 dicas para manter a barba alinhada em casa; degradê navalhado x tesoura; vantagens da assinatura mensal de corte; cuidados com o couro cabeludo no dia a dia.
+
+[✔] ✍️ Conteúdo (publicação)
+    → Quer mudar o visual e não sabe qual corte pedir? Descubra como combinar o estilo do cabelo com o formato do seu rosto (redondo, quadrado ou oval) e sair da barbearia com o visual impecável!
+
+[✔] 📢 Distribuição
+    → Blog do site (artigo completo com fotos de referência), Instagram Reels/TikTok (vídeos curtos de antes e depois) e WhatsApp (lembretes de retorno e promoções para clientes).
+
+[✔] 🎯 Personalização
+    → Versão A (executivos/trabalhadores): "Visual sempre alinhado para suas reuniões sem perder tempo em filas: agende online em 30 segundos." Versão B (jovens/universitários): "Corte e barba na régua o mês inteiro pagando um valor fixo que cabe no seu bolso."
+
+[✔] 🔍 SEO
+    → Palavra-chave: barbearia com agendamento online. Título: Corte & Estilo Barbearia | Corte, Barba e Assinatura. Descrição: Barbearia moderna com agendamento online rápido, cortes masculinos, barba e planos mensais ilimitados.
+
+[✔] ❤️ Engajamento
+    → "Agende seu horário agora e ganhe hidratação de barba na primeira visita!" + Pergunta: "Qual estilo você prefere: degradê clássico ou corte na tesoura?"
+
+[✔] 🔄 Iteração
+    → Acompanhar os cliques no botão "Agendar Agora" e a taxa de abertura dos links no Instagram; testar duas chamadas diferentes na página inicial após 2 semanas.
+
+[✔] 🚀 Tendências
+    → Vídeos curtos de transformação (Reels/TikTok de 30 segundos) mostrando o antes e depois do corte com músicas em alta para atrair público local.
+
+[✔] 🕵️ Concorrência
+    → Concorrente local só atende por ordem de chegada. Oportunidade: destacar nosso agendamento online sem espera e os planos de assinatura mensal.
+
+----------------------------------------------------
+📄 PÁGINA DE CONTEÚDO (mini-editor)
+----------------------------------------------------
+Título SEO: Corte & Estilo Barbearia | Corte, Barba e Assinatura
+URL amigável: https://seusite.com.br/corte-estilo-barbearia-agendamento
+Meta description: Barbearia moderna com agendamento online rápido, cortes masculinos, barba e planos mensais ilimitados.
+Corpo do conteúdo:
+Quer mudar o visual e não sabe qual corte pedir? Descubra como combinar o estilo do cabelo com o formato do seu rosto e sair da barbearia com o visual impecável!
+
+1. Rosto Oval: combina com praticamente todos os estilos, do degradê clássico ao topete.
+2. Rosto Quadrado: cortes curtos nas laterais valorizam o maxilar marcado.
+3. Rosto Redondo: volume no topo ajuda a alongar visualmente o rosto.
+
+Agende seu horário online em 30 segundos ou conheça nossos planos mensais de corte ilimitado!
+
+
+====================================================
+FIM DO RELATÓRIO
+====================================================
